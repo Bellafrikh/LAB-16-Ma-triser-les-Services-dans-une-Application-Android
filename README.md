@@ -61,6 +61,13 @@ C'est l'interface de contrôle.
 - **Inter-Process Communication (IPC)** : Utilisation des Binders.
 - **User Experience (UX)** : Humanisation d'un utilitaire technique par le design et le feedback visuel.
 
+
+<img width="367" height="804" alt="Capture d&#39;écran 2026-04-01 123347" src="https://github.com/user-attachments/assets/ea2dc58a-bbe7-486e-8525-9f2081107819" />
+
+<img width="370" height="804" alt="Capture d&#39;écran 2026-04-01 123411" src="https://github.com/user-attachments/assets/39b81c7c-244a-47fe-8f40-75808520f0c3" />
+
+<img width="373" height="830" alt="Capture d&#39;écran 2026-04-01 123422" src="https://github.com/user-attachments/assets/3d3347b6-cf07-49c4-ad42-29eaa71ffda4" />
+
 ---
 ##  Informations sur l'Auteur
 *   **Nom** : BELLAFRIKH ZAYNAB
