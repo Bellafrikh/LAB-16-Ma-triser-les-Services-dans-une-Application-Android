@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <!-- Couleur de fond du cercle (Blanc pur) -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Petite bordure discrète pour donner du relief -->
+    <stroke
+        android:width="2dp"
+        android:color="#DFE6E9" />
+
+    <!-- Taille par défaut -->
+    <size
+        android:width="280dp"
+        android:height="280dp" />
+</shape>
